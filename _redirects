@@ -19,6 +19,6 @@
 /opcode/uninstall        https://raw.githubusercontent.com/DannyBen/opcode/master/uninstall
 /respec                  https://raw.githubusercontent.com/DannyBen/respec/master/respec
 /respec/setup            https://raw.githubusercontent.com/DannyBen/respec/master/setup
-/rush                    https://raw.githubusercontent.com/DannyBen/rush-cli/master/rush
-/rush/setup              https://raw.githubusercontent.com/DannyBen/rush-cli/master/setup
-/rush/uninstall          https://raw.githubusercontent.com/DannyBen/rush-cli/master/uninstall
+/rush                    https://raw.githubusercontent.com/DannyBen/rush/master/rush
+/rush/setup              https://raw.githubusercontent.com/DannyBen/rush/master/setup
+/rush/uninstall          https://raw.githubusercontent.com/DannyBen/rush/master/uninstall
