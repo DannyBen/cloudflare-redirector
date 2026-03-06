@@ -25,6 +25,8 @@
 /rush/uninstall          https://raw.githubusercontent.com/DannyBen/rush/master/uninstall
 /repli                   https://raw.githubusercontent.com/DannyBen/repli/master/repli
 /repli/setup             https://raw.githubusercontent.com/DannyBen/repli/master/setup
+/repli/uninstall         https://raw.githubusercontent.com/DannyBen/repli/master/uninstall
 /nlc                     https://github.com/DannyBen/nlc/releases/latest/download/nlc
 /repocard                https://github.com/DannyBen/repocard/releases/latest/download/repocard
 /mdview                  https://github.com/DannyBen/mdview/releases/latest/download/mdview
+/ssi                     https://github.com/DannyBen/ssi/releases/latest/download/ssi
