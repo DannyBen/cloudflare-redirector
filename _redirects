@@ -4,6 +4,7 @@
 /alf/uninstall           https://raw.githubusercontent.com/DannyBen/alf/master/uninstall
 /approvals.bash          https://raw.githubusercontent.com/DannyBen/approvals.bash/master/approvals.bash
 /bootstrap               https://raw.githubusercontent.com/DannyBen/bootstrap/master/bootstrap
+/my-bootstrap            https://raw.githubusercontent.com/DannyBen/bootstrap/master/my-bootstrap
 /crypto-cli              https://raw.githubusercontent.com/DannyBen/crypto-cli/master/crypto
 /crypto-cli/setup        https://raw.githubusercontent.com/DannyBen/crypto-cli/master/setup
 /fuzzycd                 https://raw.githubusercontent.com/DannyBen/fuzzycd/master/fuzzycd
