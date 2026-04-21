@@ -34,3 +34,6 @@
 /shellkin/setup          https://raw.githubusercontent.com/DannyBen/shellkin/master/setup
 /shellkin/uninstall      https://raw.githubusercontent.com/DannyBen/shellkin/master/uninstall
 /ssi                     https://github.com/DannyBen/ssi/releases/latest/download/ssi
+/eget                    https://raw.githubusercontent.com/DannyBen/eget/master/op
+/eget/setup              https://raw.githubusercontent.com/DannyBen/eget/master/setup
+/eget/uninstall          https://raw.githubusercontent.com/DannyBen/eget/master/uninstall
