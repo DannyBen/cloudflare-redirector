@@ -37,3 +37,6 @@
 /eget                    https://raw.githubusercontent.com/DannyBen/eget/master/op
 /eget/setup              https://raw.githubusercontent.com/DannyBen/eget/master/setup
 /eget/uninstall          https://raw.githubusercontent.com/DannyBen/eget/master/uninstall
+/pm                      https://github.com/DannyBen/pm/releases/latest/download/pm
+/pm/setup                https://raw.githubusercontent.com/DannyBen/pm/master/setup
+/pm/uninstall            https://raw.githubusercontent.com/DannyBen/pm/master/uninstall
